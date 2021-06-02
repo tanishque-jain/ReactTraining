@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css'
+import moneyimg from "../../assets/img/moneyimg.png";
 
 class Assignment1 extends React.Component {
     render() {
@@ -22,7 +23,8 @@ class Assignment1 extends React.Component {
                             Start your 14 days of free Pro plan, you can always upgrade it
                             or stays with the Lite version for free.
                     </div>
-                        <img src={'moneyimg'} id="moneyicon" alt="image" height="40%" />
+                        
+                        <img src={moneyimg} id={"moneyicon"} alt="img" height="40%" />
                     </div>
                     <div className="part2">
                         <div className="heading">
