@@ -1,5 +1,6 @@
 import React from 'react';
-import Home from "./modules/home";
+// import Home from "./modules/home";
+import Assignment1 from "./modules/assignment1"
 
 // function App() {
 //   return (
@@ -26,7 +27,7 @@ class App extends React.Component{
   render(){
     return(
       <div>
-        <Home/>
+        <Assignment1/>
       </div>
     );
   }
