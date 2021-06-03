@@ -1,6 +1,7 @@
 import React from 'react';
 // import Home from "./modules/home";
-import Assignment1 from "./modules/assignment1"
+import Assignment1 from "./modules/assignment1";
+import Assignment2 from "./modules/assignment2";
 
 // function App() {
 //   return (
@@ -27,7 +28,7 @@ class App extends React.Component{
   render(){
     return(
       <div>
-        <Assignment1/>
+        <Assignment2/>
       </div>
     );
   }
