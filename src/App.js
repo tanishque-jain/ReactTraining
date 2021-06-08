@@ -1,7 +1,7 @@
 import React from 'react';
 // import Home from "./modules/home";
 // import Assignment1 from "./modules/assignment1";
-import Assignment4 from "./modules/assignment4Part1";
+import Assignment4 from "./modules/assignment4Part2";
 
 // import MainContainer from "./modules/DogecoinPage/MainContainer";
 

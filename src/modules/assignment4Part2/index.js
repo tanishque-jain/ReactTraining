@@ -1,19 +1,15 @@
 import React from 'react';
 import './index.css';
 import Menu from './Menu';
-// import PointsContent from './component/PointsContent';
-// import logo from "../../..utils/images/assignmen4/img/xcoinslogo.svg";
-// import logo from 
-export default class assignment4Part1 extends React.Component {
+export default class assignment4Part2 extends React.Component {
     render() {
         return (
-            <div className={"mainContainer"}>
-
+            <div className="mainContainer">
                 <div className={"mainMenu"}>
                     <Menu />
                 </div>
-                <div className="part2">
 
+                <div className="part2">
                     <div className="header">
                         <div className="header1">
                             <div className="header1part1">
@@ -25,6 +21,8 @@ export default class assignment4Part1 extends React.Component {
                             </div>
                         </div>
                     </div>
+
+
                     <div className="part2content">
                         <div className="header2">
                             <label htmlFor="">
@@ -33,7 +31,7 @@ export default class assignment4Part1 extends React.Component {
                                 </span></label>
                         </div>
 
-                      
+
                         <div className="blockconent">
                             <div className={"block"}>
                                 <div>
@@ -217,10 +215,8 @@ export default class assignment4Part1 extends React.Component {
 
                         </div>
                     </div>
-
                 </div>
             </div>
-
         );
     }
 }
