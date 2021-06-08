@@ -283,17 +283,6 @@
     .blockconent{
         grid-template-columns: 1fr 1fr;
     }
-
-
-  }
-
-  @media only screen and (min-width: 1200px) {
-
-    .blockconent{
-        grid-template-columns: 1fr 1fr;
-    }
-
-
   }
 
   @media only screen and (min-width: 1450px) {
@@ -301,6 +290,4 @@
     .blockconent{
         grid-template-columns: 1fr 1fr 1fr;
     }
-
-
   }
