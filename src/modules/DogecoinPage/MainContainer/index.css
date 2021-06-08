@@ -1,0 +1,20 @@
+.mainContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.buy {
+  margin-top: 77.6px;
+}
+
+.sell {
+  margin-top: 108px;
+}
+
+.horiz_line {
+  width: 976.4px;
+  height: 0;
+  margin: 66.31px 171.2px 8.5px;
+  border: solid 1px rgba(99, 118, 150, 0.2);
+}
